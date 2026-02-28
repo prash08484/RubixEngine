@@ -1,4 +1,4 @@
-// Crafted by Prash08484 aka MagneticFlux
+// Crafted by Prash08484 
 #include "RubiksCube.h"
 #include <bits/stdc++.h>
 using namespace std;

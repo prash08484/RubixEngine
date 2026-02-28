@@ -1,4 +1,4 @@
-// Crafted by Prash08484 aka MagneticFlux
+// Crafted by Prash08484 
 #ifndef RUBIKSCUBE_H
 #define RUBIKSCUBE_H
 #include <bits/stdc++.h>
